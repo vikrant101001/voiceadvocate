@@ -1,0 +1,15 @@
+€•°      Œlangchain.vectorstores.faiss”ŒFAISS”“”)”}”(Œembedding_function”Œbuiltins”Œgetattr”“”Œlangchain.embeddings.openai”ŒOpenAIEmbeddings”“”)”}”(Œ__dict__”}”(Œclient”Œopenai.api_resources.embedding”Œ	Embedding”“”Œmodel”Œtext-embedding-ada-002”Œ
+deployment”hŒopenai_api_version”Œ ”Œopenai_api_base”hŒopenai_api_type”hŒopenai_proxy”hŒembedding_ctx_length”MÿŒopenai_api_key”Œ3sk-YAg3RQhUykpJFZrQbndOT3BlbkFJ8HvwLRri1b7LnGVCoPHK”Œopenai_organization”hŒallowed_special””Œdisallowed_special”Œall”Œ
+chunk_size”MèŒmax_retries”KŒrequest_timeout”NŒheaders”NŒtiktoken_model_name”NuŒ__fields_set__””(hŒ__private_attribute_values__”}”ubŒembed_query”†”R”Œindex”NŒdocstore”Œlangchain.docstore.in_memory”ŒInMemoryDocstore”“”)”}”Œ_dict”}”Œ$7ccd2c87-cbc8-41a2-8bee-064bfe64edd5”Œlangchain.schema”ŒDocument”“”)”}”(h}”(Œpage_content”X©  Lifespan Prediction Challenge: Predicting how long someone will live is difficult. Hospice often occurs when life expectancy is less than 6 months, but not all terminal illnesses progress predictably.
+
+Signs for Hospice Readiness: Indicators include difficulty moving, eating, bathing, controlling bathroom visits, and severe memory issues.
+
+Uncertain Situations: Hospice may be considered when it's unclear what steps to take, especially in fluctuating health conditions.
+
+Additional Medical Conditions: End-stage conditions may involve infections, febrile episodes, pneumonia, abnormal breathing, and more hospitalizations.
+
+Changing Health Status: Health fluctuations make it challenging to pinpoint when hospice is needed. Healthcare professionals assist families in deciding the appropriate time.
+
+Takeaway: Signs like difficulty moving or eating may signal the need for hospice care. Consult a healthcare professional for guidance.”Œmetadata”}”uh)”(h@hBh+}”Œ
+_lc_kwargs”}”(h@hAhBhCusubssbŒindex_to_docstore_id”}”K h9sŒrelevance_score_fn”h Œ_default_relevance_score_fn”“”Œ
+_normalize_L2”‰ub.
